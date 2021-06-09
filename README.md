@@ -1,4 +1,4 @@
 # hello-world
-My first prjgect as example
+My first progect as example
 
 I like JavaScript and I want to learn more
